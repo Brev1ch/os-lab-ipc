@@ -1,0 +1,20 @@
+# бинарники (собираются через make)
+signals/father
+signals/sig_father
+signals/sig_son
+signals/sigact
+signals/sigact_int
+signals/threads_sig1
+signals/threads_sig2
+signals/threads_sig3
+pipes/pipe_basic
+pipes/pipe_clientserver
+pipes/fifo_hello_server
+pipes/fifo_hello_client
+pipes/fifo_server
+pipes/fifo_client
+pipes/fifomsg_server
+pipes/fifomsg_client
+*.o
+signals/ps_log.txt
+pipes/output.txt
